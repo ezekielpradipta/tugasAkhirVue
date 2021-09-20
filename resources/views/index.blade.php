@@ -18,7 +18,7 @@
 </head>
 
 <body class="hold-transition dark-mode sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
-    <div class="wrapper" id="dw">
+    <div class="wrapper" id="app">
         <app></app>
     </div>
     <!-- ./wrapper -->
